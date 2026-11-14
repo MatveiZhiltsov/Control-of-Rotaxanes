@@ -1,0 +1,278 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="ZR4T-yk2iEL90sGQA-7s">
+    <mxGraphModel dx="1073" dy="491" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="re-77vjFMg9AWYmk8Os1-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="TTF-axel molecule&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="14" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="134" y="144.5" as="sourcePoint" />
+            <mxPoint x="234" y="144.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-7" connectable="0" parent="re-77vjFMg9AWYmk8Os1-6" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;" value="Avogadro UFF" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="TTF-axel molecule Avogadro optimized" vertex="1">
+          <mxGeometry height="60" width="120" x="234" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354" y="144.5" as="sourcePoint" />
+            <mxPoint x="454" y="144.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-14" connectable="0" parent="re-77vjFMg9AWYmk8Os1-13" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="GFN2 xTB" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="TTF-axel molecule xTB optimized" vertex="1">
+          <mxGeometry height="60" width="120" x="454" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-26" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="574" y="144.5" as="sourcePoint" />
+            <mxPoint x="674" y="144.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-27" connectable="0" parent="re-77vjFMg9AWYmk8Os1-26" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Avogadro UFF" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="TTF-axel-DNP molecule Avogadro optimized" vertex="1">
+          <mxGeometry height="60" width="120" x="675" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DNP station Avogadro optimized" vertex="1">
+          <mxGeometry height="60" width="120" x="454" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-31" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="513.5" y="59" as="sourcePoint" />
+            <mxPoint x="513.5" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-32" connectable="0" parent="re-77vjFMg9AWYmk8Os1-31" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Attachment" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-37" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354" y="29.5" as="sourcePoint" />
+            <mxPoint x="454" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-38" connectable="0" parent="re-77vjFMg9AWYmk8Os1-37" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Avogadro UFF" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="234" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DNP station" vertex="1">
+          <mxGeometry height="30" width="60" x="264" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-41" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="134" y="29.5" as="sourcePoint" />
+            <mxPoint x="234" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-42" connectable="0" parent="re-77vjFMg9AWYmk8Os1-41" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Structure edit" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DNP molecule" vertex="1">
+          <mxGeometry height="60" width="120" x="12" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-47" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="734.5" y="175" as="sourcePoint" />
+            <mxPoint x="734.5" y="231" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-48" connectable="0" parent="re-77vjFMg9AWYmk8Os1-47" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="GFN2 xTB" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="TTF-axel-DNP molecule&lt;div&gt;xTB optimized&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="675" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-50" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="674" y="259.5" as="sourcePoint" />
+            <mxPoint x="574" y="259.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-51" connectable="0" parent="re-77vjFMg9AWYmk8Os1-50" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Avogadro UFF" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rotaxane molecule&lt;div&gt;Assembled Avogadro optimized&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="454" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-54" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="734.5" y="346" as="sourcePoint" />
+            <mxPoint x="734.5" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-55" connectable="0" parent="re-77vjFMg9AWYmk8Os1-54" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Attachment" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-57" edge="1" parent="1" source="re-77vjFMg9AWYmk8Os1-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="re-77vjFMg9AWYmk8Os1-49" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Molecular stopper with the triazole linker" vertex="1">
+          <mxGeometry height="60" width="120" x="675" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-63" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="454" y="259.5" as="sourcePoint" />
+            <mxPoint x="354" y="259.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-64" connectable="0" parent="re-77vjFMg9AWYmk8Os1-63" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="GFN2 xTB" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rotaxane molecule xTB optimized" vertex="1">
+          <mxGeometry height="60" width="120" x="234" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-66" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="234" y="259.5" as="sourcePoint" />
+            <mxPoint x="134" y="259.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-67" connectable="0" parent="re-77vjFMg9AWYmk8Os1-66" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="xTB ALPB" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rotaxane molecule in the acetonitrile solution" vertex="1">
+          <mxGeometry height="60" width="120" x="14" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-71" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="76" y="289" as="sourcePoint" />
+            <mxPoint x="76" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-72" connectable="0" parent="re-77vjFMg9AWYmk8Os1-71" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Adding the counterions" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rotaxane hexaflourophosphate&lt;div&gt;in acetonitrile solution&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="14" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-74" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="134" y="374.5" as="sourcePoint" />
+            <mxPoint x="234" y="374.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-75" connectable="0" parent="re-77vjFMg9AWYmk8Os1-74" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="GFN2 xTB" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Final Rotaxane optimized" vertex="1">
+          <mxGeometry height="60" width="120" x="234" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-77" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="374.5" as="sourcePoint" />
+            <mxPoint x="455" y="374.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-78" connectable="0" parent="re-77vjFMg9AWYmk8Os1-77" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="GOAT" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Conformers&lt;div&gt;(Cancelled)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="455" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-82" edge="1" parent="1" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.431" as="geometry">
+            <Array as="points">
+              <mxPoint x="10.3" y="263" />
+              <mxPoint x="10.3" y="313" />
+            </Array>
+            <mxPoint x="14" y="263" as="sourcePoint" />
+            <mxPoint x="10.3" y="435.04" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rotaxane for ORCA NEB scanning" vertex="1">
+          <mxGeometry height="60" width="120" x="14" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-84" edge="1" parent="1" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" value="">
+          <mxGeometry height="50" relative="1" width="50" x="0.1484" as="geometry">
+            <mxPoint x="12" y="431.7" as="sourcePoint" />
+            <mxPoint x="76" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tetraphenyl methane molecule" vertex="1">
+          <mxGeometry height="60" width="120" x="454" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-86" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="575" y="489.5" as="sourcePoint" />
+            <mxPoint x="675" y="489.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-87" connectable="0" parent="re-77vjFMg9AWYmk8Os1-86" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Avogadro UFF" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tetraphenyl methane with triazole linker" vertex="1">
+          <mxGeometry height="60" width="120" x="675" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-91" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="734.5" y="460" as="sourcePoint" />
+            <mxPoint x="734.5" y="404" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-92" connectable="0" parent="re-77vjFMg9AWYmk8Os1-91" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Radical attachment" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tetraphenyl methane molecule assembled" vertex="1">
+          <mxGeometry height="60" width="120" x="234" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-94" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="489.5" as="sourcePoint" />
+            <mxPoint x="455" y="489.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-95" connectable="0" parent="re-77vjFMg9AWYmk8Os1-94" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Avogadro UFF" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1,2,3 Triazole molecule" vertex="1">
+          <mxGeometry height="60" width="120" x="234" y="576" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-98" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="605.5" as="sourcePoint" />
+            <mxPoint x="455" y="605.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-99" connectable="0" parent="re-77vjFMg9AWYmk8Os1-98" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Linker addition" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Triazole linker" vertex="1">
+          <mxGeometry height="60" width="120" x="455" y="576" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-102" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="575" y="605.5" as="sourcePoint" />
+            <mxPoint x="675" y="605.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-103" connectable="0" parent="re-77vjFMg9AWYmk8Os1-102" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Avogadro UFF" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-104" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Triazole linker optimized" vertex="1">
+          <mxGeometry height="60" width="120" x="676" y="576" as="geometry" />
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-108" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="734.5" y="576" as="sourcePoint" />
+            <mxPoint x="734.5" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re-77vjFMg9AWYmk8Os1-109" connectable="0" parent="re-77vjFMg9AWYmk8Os1-108" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Attachment" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
